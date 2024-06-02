@@ -1,5 +1,5 @@
 <h2 align="center" class="section-heading">💻 About Me</h2>
-<p align="center">I'm Kalopsia, passionate volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I'm delving into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I develop engaging game mechanics for a worldwide community.</p>
+<p align="center">I'm Kalopsia, passionate volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I delve into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I develop engaging game mechanics for a worldwide community.</p>
 
 <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
 <p align="center">As an aspiring AI Engineer, I wield a diverse set of programming languages and tools to streamline processes and turn innovative ideas into reality. My current technical expertise encompasses the following technologies:</p>
@@ -18,7 +18,7 @@
 </div>
 
 <h2 align="center" class="section-heading">📊 GitHub Stats</h2>
-<p align="center">Take a look at my GitHub stats to see how I balance coding, creativity and collaboration! Here are the highlights of my digital journey:</p>
+<p align="center">Take a look at these stats to see how I balance coding, creativity and collaboration! Here are the highlights of my GitHub journey:</p>
 <div align="center">
   <div align="center">
     <img width="97.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Contributions"/>
