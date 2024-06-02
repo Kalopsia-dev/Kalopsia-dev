@@ -21,13 +21,13 @@
 <p align="center">Take a look at my GitHub stats to see how I balance coding, creativity and collaboration! Here are the highlights of my digital journey:</p>
 <div align="center">
   <div align="center">
-    <img width="976" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Contributions"/>
+    <img width="97.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Contributions"/>
   </div>
   <div align="center">
-    <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Stats"/>
-    <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalopsia-dev&theme=github_dark&utcOffset=1" alt="Kalopsia's Productive Time"/>
-    <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Repository Languages"/>
-    <img width="240" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Commit Languages"/>
+    <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Stats"/>
+    <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalopsia-dev&theme=github_dark&utcOffset=1" alt="Kalopsia's Productive Time"/>
+    <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Repository Languages"/>
+    <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Commit Languages"/>
   </div>
 </div>
 
