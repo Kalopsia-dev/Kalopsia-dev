@@ -1,5 +1,5 @@
 <h2 align="center" class="section-heading">💻 About Me</h2>
-<p align="center">I'm Kalopsia, passionate volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I delve into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I develop engaging game mechanics for a worldwide community.</p>
+<p align="center">I'm Kalopsia, volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I delve into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I develop engaging game mechanics for a worldwide community.</p>
 
 <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
 <p align="center">As an aspiring AI Engineer, I wield a diverse set of programming languages and tools to streamline processes and turn innovative ideas into reality. My current technical expertise encompasses the following technologies:</p>
@@ -32,4 +32,4 @@
 </div>
 
 <h2 align="center" class="section-heading"></h2>
-<p align="center">Thank you for visiting my profile! Your interest and support mean the world to me. Let's code the future together!</p>
+<p align="center">Thanks for visiting my profile! If you're curious what I've been up to recently, check out the pinned repos below!</p>
