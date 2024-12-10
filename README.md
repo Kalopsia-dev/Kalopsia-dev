@@ -1,8 +1,8 @@
 <h2 align="center" class="section-heading">💻 About Me</h2>
-<p align="center">I'm Kalopsia, volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I delve into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I develop engaging game mechanics for a worldwide community.</p>
+<p align="center">I'm Kalopsia, volunteer developer and administrator at <a href="https://nwnarelith.com">Arelith</a>, a vibrant <a href="https://www.beamdog.com/games/neverwinter-nights-enhanced/">Neverwinter Nights</a> server that thrives on collaborative storytelling. By day, I delve into the depths of Data Science and Machine Learning in my Artificial Intelligence degree. By night, I design and develop game content for a worldwide community.</p>
 
 <h2 align="center" class="section-heading">🛠️ Tech Stack</h2>
-<p align="center">As an aspiring AI Engineer, I wield a diverse set of programming languages and tools to streamline processes and turn innovative ideas into reality. My current technical expertise encompasses the following technologies:</p>
+<p align="center">Thanks to my degree and volunteer efforts, I'm familiar with a diverse set of programming languages and tools. Here's my tech stack:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center" class="section-heading">📊 GitHub Stats</h2>
-<p align="center">Take a look at these stats to see how I balance coding, creativity and collaboration! Here are the highlights of my GitHub journey:</p>
+<p align="center">Check out the highlights of my GitHub journey:</p>
 <div align="center">
   <div align="center">
     <img width="97.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalopsia-dev&theme=github_dark" alt="Kalopsia's Contributions"/>
@@ -33,4 +33,4 @@
 </div>
 
 <h2 align="center" class="section-heading"></h2>
-<p align="center">Thanks for visiting my profile! If you're curious what I've been up to recently, check out the pinned repos below!</p>
+<p align="center">Thanks for visiting my profile. If you're curious what I've been up to recently, check out the pinned repos below!</p>
